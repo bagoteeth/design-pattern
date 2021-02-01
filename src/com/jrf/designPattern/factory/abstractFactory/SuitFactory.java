@@ -1,4 +1,4 @@
-package com.jrf.factory.abstractFactory;
+package com.jrf.designPattern.factory.abstractFactory;
 
 /**
  * @Author ruofa

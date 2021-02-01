@@ -1,6 +1,4 @@
-package com.jrf.factory.abstractFactory;
-
-import java.util.Arrays;
+package com.jrf.designPattern.factory.abstractFactory;
 
 /**
  * @Author ruofa
